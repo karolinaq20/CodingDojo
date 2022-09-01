@@ -1,0 +1,12 @@
+C:\Users\KarolinaQueiroz\source\repos\CodingDojo3\obj\Debug\net5.0\CodingDojo3.csproj.AssemblyReference.cache
+C:\Users\KarolinaQueiroz\source\repos\CodingDojo3\obj\Debug\net5.0\CodingDojo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KarolinaQueiroz\source\repos\CodingDojo3\obj\Debug\net5.0\CodingDojo3.AssemblyInfoInputs.cache
+C:\Users\KarolinaQueiroz\source\repos\CodingDojo3\obj\Debug\net5.0\CodingDojo3.AssemblyInfo.cs
+C:\Users\KarolinaQueiroz\source\repos\CodingDojo3\obj\Debug\net5.0\CodingDojo3.csproj.CoreCompileInputs.cache
+C:\Users\KarolinaQueiroz\source\repos\CodingDojo3\bin\Debug\net5.0\CodingDojo3.deps.json
+C:\Users\KarolinaQueiroz\source\repos\CodingDojo3\bin\Debug\net5.0\CodingDojo3.dll
+C:\Users\KarolinaQueiroz\source\repos\CodingDojo3\bin\Debug\net5.0\ref\CodingDojo3.dll
+C:\Users\KarolinaQueiroz\source\repos\CodingDojo3\bin\Debug\net5.0\CodingDojo3.pdb
+C:\Users\KarolinaQueiroz\source\repos\CodingDojo3\obj\Debug\net5.0\CodingDojo3.dll
+C:\Users\KarolinaQueiroz\source\repos\CodingDojo3\obj\Debug\net5.0\ref\CodingDojo3.dll
+C:\Users\KarolinaQueiroz\source\repos\CodingDojo3\obj\Debug\net5.0\CodingDojo3.pdb
